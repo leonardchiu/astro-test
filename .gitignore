@@ -19,3 +19,5 @@ pnpm-debug.log*
 
 # macOS-specific files
 .DS_Store
+
+# Markdown files - Blog posts -> Editing use StackEdit sync direct to /src/content/posts folder
