@@ -21,3 +21,4 @@ pnpm-debug.log*
 .DS_Store
 
 # Markdown files - Blog posts -> Editing use StackEdit sync direct to /src/content/posts folder
+src/content/posts/*.md
