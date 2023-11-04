@@ -3,13 +3,15 @@ title: "Is WordPress the Best?"
 pubDate: 2021-02-22
 author: "Leonard Chiu"
 image:
-  url: "../images/"
+  url: "../images/Wordpress.png"
   alt: ""
-slug: ""
+slug: "is-wordpress-the-best"
 ---
+
+## Is WordPress the Best?
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTA2MTk5ODJdfQ==
+eyJoaXN0b3J5IjpbMTMxNzU3MjYwMF19
 -->
