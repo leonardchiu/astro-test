@@ -59,7 +59,7 @@ export default function Example() {
               <span className="sr-only">Your Company</span>
               <img
                 className="h-8 w-auto"
-                src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=600"
+                src="../images/leonardchiu_logo_noBG.png"
                 alt=""
               />
             </a>
@@ -86,12 +86,12 @@ export default function Example() {
                 ))}
               </div>
               <div className="py-6">
-                <a
+                {/* <a
                   href="#"
                   className="-mx-3 block rounded-lg px-3 py-2.5 text-base font-semibold leading-7 text-gray-900 hover:bg-gray-50"
                 >
                   Log in
-                </a>
+                </a> */}
               </div>
             </div>
           </div>
