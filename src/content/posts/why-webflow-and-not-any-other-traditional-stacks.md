@@ -3,7 +3,7 @@ title: "Why Webflow and not any other traditional stacks?"
 pubDate: 2021-12-24
 author: "Leonard Chiu"
 image:
-  url: "../images/Webflow.jpg"
+  url: "../blogs/Webflow.jpg"
   alt: ""
 slug: "why-webflow-and-not-any-other-traditional-stacks"
 ---

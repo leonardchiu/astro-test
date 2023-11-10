@@ -3,7 +3,7 @@ title: "Xero integration with Filemaker"
 pubDate: 2022-01-12
 author: "Leonard Chiu"
 image:
-  url: "../images/Xero_Filemaker.png"
+  url: "../blogs/Xero_Filemaker.png"
   alt: ""
 slug: "xero-integration-with-filemaker"
 ---

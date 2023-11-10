@@ -3,7 +3,7 @@ title: "What is low code platforms"
 pubDate: 2021-11-20
 author: "Leonard Chiu"
 image:
-  url: "../images/Low-Code-Featured-Image.jpg"
+  url: "../blogs/Low-Code-Featured-Image.jpg"
   alt: ""
 slug: "what-is-low-code-platforms"
 ---

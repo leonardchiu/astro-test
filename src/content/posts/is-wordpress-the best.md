@@ -3,7 +3,7 @@ title: "Is WordPress the Best?"
 pubDate: 2021-02-22
 author: "Leonard Chiu"
 image:
-  url: "../images/Wordpress.png"
+  url: "../blogs/Wordpress.png"
   alt: ""
 slug: "is-wordpress-the-best"
 ---
@@ -47,7 +47,6 @@ In short, with the above most commonly found negatives comments about WordPress,
 ## Summary
 
 These days I hardly develop new websites hence my opportunity to explore WordPress is limited. However throughout the years, I have been purchasing lifetime agency license of some of the best plugins for WordPress. Some of these license are no longer available in lifetime license making them highly sought after and also allows me to deploy on my own sites. Recently I revisted some of these plugins and decided to deploy a WordPress instance on a docker container as a dev WordPress environment to play around and found WordPress has since further improves. I am particularly interested in the stock page builder Gutenburg. Together with a few good plugins, you can build almost any websites.
-
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTkxNzUxODM0NF19

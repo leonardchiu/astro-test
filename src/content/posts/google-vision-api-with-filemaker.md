@@ -3,7 +3,7 @@ title: "Google Vision API with FileMaker"
 pubDate: 2021-10-10
 author: "Leonard Chiu"
 image:
-  url: "../images/Cloud_Vision_Filemaker.jpg"
+  url: "../blogs/Cloud_Vision_Filemaker.jpg"
   alt: ""
 slug: "google-vision-api-with-filemaker"
 ---
@@ -39,6 +39,7 @@ For example by scanning the front of the NRIC will can extract the full name inc
 ### Conclusion
 
 So as you all can see, this is an useful little app that can be helpful in many application. The takeaway is that once you are able to authenticate with Google. There are plenty of other services available as GCP for you to explore. Bear in mind that GCP is not a free service and if you exceed the limit, Google will charge you at the credit card you sign up the developer account with. I will be exploring more of GCP services in this blog and detail them here once I done them. These are little hobbies of mine when I have spare time. Find some time and try it!
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE4NTkzNjE1MjddfQ==
 -->
